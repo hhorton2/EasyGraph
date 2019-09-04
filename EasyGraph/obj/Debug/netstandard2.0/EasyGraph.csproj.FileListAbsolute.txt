@@ -1,0 +1,9 @@
+C:\Repos\EasyGraph\EasyGraph\bin\Debug\netstandard2.0\EasyGraph.deps.json
+C:\Repos\EasyGraph\EasyGraph\bin\Debug\netstandard2.0\EasyGraph.dll
+C:\Repos\EasyGraph\EasyGraph\bin\Debug\netstandard2.0\EasyGraph.pdb
+C:\Repos\EasyGraph\EasyGraph\obj\Debug\netstandard2.0\EasyGraph.csprojAssemblyReference.cache
+C:\Repos\EasyGraph\EasyGraph\obj\Debug\netstandard2.0\EasyGraph.csproj.CoreCompileInputs.cache
+C:\Repos\EasyGraph\EasyGraph\obj\Debug\netstandard2.0\EasyGraph.AssemblyInfoInputs.cache
+C:\Repos\EasyGraph\EasyGraph\obj\Debug\netstandard2.0\EasyGraph.AssemblyInfo.cs
+C:\Repos\EasyGraph\EasyGraph\obj\Debug\netstandard2.0\EasyGraph.dll
+C:\Repos\EasyGraph\EasyGraph\obj\Debug\netstandard2.0\EasyGraph.pdb
